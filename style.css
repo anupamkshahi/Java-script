@@ -1,0 +1,21 @@
+/* .heading{
+    color:blueviolet;
+    background: palevioletred;
+}
+body{
+    background-color:rgb(3, 63, 88);
+}
+button{
+    background-color: black;
+    color:blueviolet;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
